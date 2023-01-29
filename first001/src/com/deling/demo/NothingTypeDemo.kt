@@ -7,6 +7,6 @@ fun main() {
 
 }
 
-private fun test(age:Int,name:String){
+private fun test(age:Int,name:String) {
     println("$name 岁数 $age")
 }
