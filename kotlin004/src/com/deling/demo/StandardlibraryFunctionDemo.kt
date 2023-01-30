@@ -38,7 +38,7 @@ import java.io.File
 
 fun main() {
     // apply
-    var file=File("/Users/user/wfc/pwd.txt").apply {
+    val file=File("/Users/user/wfc/pwd.txt").apply {
         setReadable(true)
         setWritable(true)
         setExecutable(true)
