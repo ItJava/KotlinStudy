@@ -13,7 +13,7 @@ fun main() {
 /*
 val getDiscountWords:(String,Int)->String={goodsname,hour->
         val currentyear=2023
-        "${currentyear}年,双11$goodsname 促销倒计时 $hour"
+        "${currentyear}年,双11$goodsnam e 促销倒计时 $hour"
     }
  */
 
